@@ -1,0 +1,134 @@
+﻿Drug,Primary targets,target_type,Therapeutic indications,cancer_type
+Abemaciclib,CDK4/6,CDK inhibitor,Combination therapy with (i) an aromatase inhibitor or with (ii)fulvestrant or (iii) as a monotherapy for breast cancer,Breast cancer
+Abrocitinib,JAK1,JAK inhibitor,Atopic dermatitis(Other),Other
+Acalabrutinib,BTK,BTK inhibitor,Mantle cell lymphomas;CLL; SLL,Mantle cell lymphomas;CLL; SLL
+Afatinib,ErbB1/2/4,ErbB inhibitor,NSCLC; squamous NSCLC,NSCLC
+Alectinib,ALK;RET,ALK inhibitor; RET inhibtor,ALK-positive NSCLC,NSCLC
+Asciminib,BCR-Abl,BCR-Abl inhibitor,Ph+ CML,CML
+Avapritinib,PDGFRa,PDGFRα inhibitor,GIST with PDGFRa exon 18 mutations,GIST
+Axitinib,VEGFR1/2/3,VEGFR inhibitor,RCC,RCC
+Baricitinib,JAK1/2,JAK inhibitor,Rheumatoid arthritis(Other),Other
+Belumosudil,ROCK2,ROCK inhibitor,Graft vs. host disease(Other),Other
+Binimetinib,MEK1/2,MEK inhibitor,Combination therapy with encorafenib for BRAFV600E/K melanomas,Melanoma
+Bosutinib,BCR-Abl,BCR-Abl inhibitor,Ph+ CML,CML
+Brigatinib,ALK,ALK inhibitor,ALK-positive NSCLC,NSCLC
+Cabozantinib,RET;VEGFR2,RET inhibtor; VEGFR inhibitor,Medullary thyroid cancer;RCC;HCC,Medullary thyroid cancer;RCC;HCC
+Capmatinib,MET,MET inhibitor,NSCLC with MET exon 14 skipping,NSCLC
+Ceritinib,ALK,ALK inhibitor,ALK-positive NSCLC resistant to crizotinib,NSCLC
+Cobimetinib,MEK1/2,MEK inhibitor,BRAFV600E/K melanomas in combination with vemurafenib,Melanoma
+Crizotinib,ALK;ROS1,ALK inhibitor; ROS inhibtor,ALK or ROS1-postive NSCLC;inflammatory myofibroblastic tumors;anaplastic large cell lymphoma,Melanoma;inflammatory myofibroblastic tumors;Anaplastic large cell lymphoma
+Dabrafenib,BRaf,B-raf inhibitor,BRAFV600E/K melanomas;BRAFV600E NSCLC;BRAFV600E anaplastic thyroid cancers,NSCLC; Anaplastic thyroid cancer
+Dacomitinib,EGFR,EGFR inhibitor,EGER-mutant NSCLC,NSCLC
+Dasatinib,BCR-Abl,BCR-Abl inhibitor,Ph+ CML or ALL,CML; ALL
+Encorafenib,B-Raf,B-raf inhibitor,Combination therapy with binimetinib for BRAFV600E/K melanomas,Melanoma
+Entrectinib,TRKA/B/C;ROS1,TRK inhibitor; ROS inhibitor,Solid tumors with NTRK fusion proteins;ROS1-positive NSCLC,Solid tumor; NSCLC
+Erdafitinib,FGFR1/2/3/4,FGFR inhibitor,Urothelial bladder cancer,Urothelial bladder cancer
+Erlotinib,EGFR,EGFR inhibitor,NSCLC;Pancreatic cancer,NSCLC;Pancreatic cancer
+Everolimus,FKBP12/mTOR,mTOR inhibitor,HER2-negative breast cancer; pancreatic neuroendocrine tumors;RCC;angiomyolipomas;subependymal giant cell astrocytomas,Breast cancer;Pancreatic neuroendocrine tumors;RCC;angiomyolipomas;subependymal giant cell astrocytomas
+Fedratinib,JAK2,JAK inhibitor,Myelofibrosis(Other),Other
+Fostamatinib,Syk,Syk inhibitor,Chronic immune thrombocytopenia(Other),Other
+Futibatinib,FGFR2,FGFR inhibitor,Bile duct cancers (cholangiocarcinomas) with FGFR2 fusions or other rearrangements,Bile duct cancer
+Gefitinib,EGFR,EGFR inhibitor,NSCLC with exon 19 deletions or exon 21 substitutions,NSCLC
+Gilteritinib,Flt3,Flt3 inhibitor,AML with FLT3 mutations,AML
+Ibrutinib,BTK,BTK inhibitor,CLL;mantle cell lymphoma;marginal zone lymphoma;graft vs. host disease,CLL;Mantle cell lymphoma;Other
+Imatinib,BCR-Abl,BCR-Abl inhibitor,Ph+ CML or ALL; aggressive systemic mastocytosis;chronic eosinophilic leukemia;dermatofibrosarcoma protuberans;hypereosinophilic syndrome;GIST;myelodysplastic/myeloproliferative disease,CML;ALL;GIST;Other
+Infigratinib,FGFR2,FGFR inhibitor,Cholangiocarcinomas with FGFR2 fusions or other rearrangements,Bile duct cancer
+Lapatinib,EGFR;ErbB2/HER2,EGFR inhibitor;ErbB inhibitor,HER2-positive breast cancer,Breast cancer
+Larotrectinib,TRKA/B/C,TRK inhibitor,Solid tumors with NTRK fusion proteins,Solid tumor
+Lenvatinib,VEGFR;RET,VEGFR inhibitor;RET inhibitor,Differentiated thyroid cancer,Differentiated thyroid cancer
+Lorlatinib,ALK,ALK inhibitor,ALK-positive NSCLC,NSCLC
+Midostaurin,Flt3,Flt3 inhibitor,AML;mastocytosis(Other);mast cell leukemia,AML; Other; Leukemia
+Mobocertinib,EGFR,EGFR inhibitor,NSCLC with EGFR-positive exon 20 insertions,NSCLC
+Neratinib,ErbB2/HER2,ErbB inhibitor,HER2-positive breast cancer,Breast cancer
+Netarsudil,ROCK1/2,ROCK inhibitor,Glaucoma(Other),Other
+Nilotinib,BCR-Abl,BCR-Abl inhibitor,Ph+ CML,CML
+Nintedanib,FGFR1/2/3,FGFR inhibitor,Idiopathic pulmonary fibrosis(Other),Other
+Osimertinib,EGFR T970M,EGFR inhibitor,NSCLC with exon 19 deletions or exon 21 substitutions,NSCLC
+Pacritinib,JAK2,JAK inhibitor,Myelofibrosis(Other),Other
+Palbociclib,CDK4/6,CDK inhibitor,Estrogen receptor- and HER2-positive breast cancers,Breast cancer
+Pazopanib,VEGFR1/2/3,VEGFR inhibitor,RCC;soft tissue sarcomas,RCC;Soft tissue sarcomas
+Pemigatinib,FGFR2,FGFR inhibitor,Cholangiocarcinoma with FGFR2 fusions or other rearrangements,Bile duct cancer
+Pexidartinib,CSF1R,CSF1R inhibitor,Tenosynovial giant cell tumors,Tenosynovial giant cell tumors
+Ponatinib,BCR-Abl,BCR-Abl inhibitor,Ph+ CML Or ALL,CML; ALL
+Pralsetinib,RET, RET inhibtor,RET-fusion (i) NSCLC; (ii) medullary thyroid cancer; (iii) differentiated thyroid cancer,Thyroid cancer; NSCLC
+Regorafenib,VEGFR1/2/3,VEGFR inhibitor,Colorectal cancer;GIST;HCC,Colorectal cancer;GIST;HCC
+R406 active metabolite of fostamatinib,Syk,Syk inhibitor,Chronic immune thrombocytopenia(Other),Other
+Ribociclib,CDK4/6,CDK inhibitor,Combination therapy with an aromatase inhibitor for breast cancer,Breast cancer
+Ripretinib,Kit;PDGFRa,Kit inhibitor;PDGFRα inhibitor,Fourth-line treatment for GIST,GIST
+Ruxolitinib,JAK1/2/3;Tyk,JAK inhibitor; Tyk inhibitor,Myelofibrosis(Other);polycythemia vera(Other);atopic dermatitis(Other);graft vs. hostdisease(Other),Other
+Selpercatinib,RET, RET inhibtor,RET fusion NSCLC and thyroid cancers and RET mutant medullary thyroid cancer,Medullary thyroid cancer; NSCLC
+Selumetinib,MEK1/2,MEK inhibitor,Neurofibromatosis type I,Neurofibromatosis
+Sirolimus,FKBP12/mTOR,mTOR inhibitor,Kidney transplants(Other);lymphangioleiomyomatosis,Other
+Sorafenib,VEGFR1/2/3,VEGFR inhibitor,HCC; RCC; differentiated thyroid cancer,HCC; RCC; Differentiated thyroid cancer
+Sunitinib,VEGFR2,VEGFR inhibitor,GIST;pancreatic neuroendocrine tumors;RCC,GIST;Pancreatic neuroendocrine tumors;RCC
+Temsirolimus,FKBP12/mTOR,mTOR inhibitor,RCC,RCC
+Tepotinib,MET,MET inhibitor,NSCLC with MET mutations,NSCLC
+Tivozanib,VEGFR2,VEGFR inhibitor,Third-line treatment of RCC,RCC
+Tofacitinib,JAK3,JAK inhibitor,Rheumatoid arthritis(Other); psoriatic arthritis(Other); ulcerative colitis(Other),Other
+Trametinib,MEK1/2,MEK inhibitor,BRAFV600E/Kmelanoma;BRAFV600E NSCLC,Melanoma; NSCLC
+Trilaciclib,CDK4/6,CDK inhibitor,Chemotherapyinduced myelosuppression(Other),Other
+Tucatinib,ErbB2/HER2,ErbB inhibitor,Combination second-line treatment for HER2-positive breast cancer,Breast cancer
+Upadacitinib,JAK1,JAK inhibitor,Rheumatoid arthritis(Other); psoriatic arthritis(Other);atopic dermatitis(Other),Other
+Vandetanib,VEGFR2,VEGFR inhibitor,Medullary thyroid cancer,Medullary thyroid cancer
+Vemurafenib,B-Raf,B-raf inhibitor,BRAFV600E melanomas; Erdheim-Chester disease(Other),Other;Melanoma
+Zanubrutinib,BTK,BTK inhibitor,Mantle cell lymphomas,Lymphoma
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,

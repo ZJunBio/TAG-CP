@@ -1,0 +1,27 @@
+source	target	coeff
+Venetoclax	Navitoclax	1.0
+Erlotinib	Sapitinib	1.0
+Erlotinib	Lapatinib	1.0
+Erlotinib	Afatinib	1.0
+Pictilisib	Dactolisib	1.0
+AZD4547	PD173074	2.0
+Nilotinib	Dasatinib	1.0
+Sapitinib	Lapatinib	2.0
+Sapitinib	Afatinib	2.0
+Linsitinib	BMS-754807	1.0
+Dactolisib	AZD8055	1.0
+Dactolisib	OSI-027	1.0
+Wee1 Inhibitor	MK-1775	1.0
+AZD8055	OSI-027	2.0
+Dasatinib	Axitinib	1.0
+Dasatinib	Sorafenib	1.0
+Palbociclib	Ribociclib	2.0
+Camptothecin	Irinotecan	1.0
+Uprosertib	MK-2206	2.0
+Lapatinib	Afatinib	2.0
+Oxaliplatin	Temozolomide	1.0
+ZM447439	Tozasertib	2.0
+ZM447439	Alisertib	1.0
+Paclitaxel	Docetaxel	1.0
+Tozasertib	Alisertib	1.0
+Axitinib	Sorafenib	3.0

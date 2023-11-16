@@ -1,0 +1,19 @@
+//data details for drug combination screen.
+//lookup a specified combination.
+awk -F',' '{if(match($2, "1022:1005") != 0) print $0}' $bio/Originalscreen_Alltissues_fitteddata.csv
+
+//lookup cell lines for a specified combination.
+awk -F',' '{if(match($2, "1022:1005") != 0) print $0}' $bio/Originalscreen_Alltissues_fitteddata.csv | awk -F, '{ar[$3]++}END{for (i in $3) print i}' //80 cell lines
+
+//lookup measurements of a specified 'combination-cell line' pair.
+awk -F',' '{if(match($2, "1022:1005") != 0) print $0}' $bio/Originalscreen_Alltissues_fitteddata.csv | awk -F, '{if(match($4, "KP-1N") != 0) print $0}'
+
+//check anchor concentration and library concentration of 'comibination-cell line' pair.
+awk -F',' '{if(match($2, "1022:1005") != 0) print $0}' $bio/Originalscreen_Alltissues_fitteddata.csv | awk -F, '{if(match($4, "KP-1N") != 0) print $13, $20}'
+
+//replicated drugs share one CID
+awk -F, 'NR>1{ar[$2]++}END{for(i in ar) print ar[i],i}' $bio/drug_cids.csv
+
+//Get cells with proteomics.
+ awk -F, 'NR>1{ar[$3]++}END{for(i in ar) print i}' $bio/Proteomics_20221214/proteomics_all_20221214.csv > $bio/cellswith_proteo.txt
+//There are 121/125 cell lines stored in cell_proteomic.txt have proteomics. 

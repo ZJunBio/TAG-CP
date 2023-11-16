@@ -1,0 +1,90 @@
+drug_name,cancer_type,status
+Nilotinib,Chronic myelogenous leukemia (CML),approved
+Venetoclax,Chronic lymphocytic leukemia (CLL),approved
+Navitoclax,Other,approved
+RO-3306,Other,approved
+Ribociclib,Breast cancer,phase 3
+Wee1 Inhibitor,Other,approved
+BI-2536,Acute myeloid leukaemia(AML),phase 2
+AZD7762,Solid tumour,phase 1
+MK-1775,Ovarian cancer,phase 2
+MK-1775,Solid tumour,phase 1
+Palbociclib,Breast cancer,approved
+Vorinostat,Cutaneous T-cell lymphoma (CTCL),approved
+Entinostat,Breast cancer,phase 3
+Entinostat,Colorectal cancer,phase 2
+Entinostat,Melanoma,phase 2
+Entinostat,NSCLC,phase 2
+Entinostat,Ovarian cancer,phase 2
+JQ1,Testicular cancer,phase 1
+GSK269962A,Inflammation,approved
+Cisplatin,Solid tumour,approved
+Cisplatin,Osteosarcoma,phase 2
+Temozolomide,Grade IV astrocytoma,approved
+Oxaliplatin,Colorectal cancer,approved
+Gemcitabine,Solid tumour,approved
+Irinotecan,Colorectal cancer,approved
+Camptothecin,Solid tumour,phase 3
+Afatinib,NSCLC,approved
+Lapatinib,Breast cancer,approved
+Sapitinib,Breast cancer,phase 2
+Erlotinib,NSCLC,approved
+Erlotinib,Pancreatic cancer,approved
+Dabrafenib,Melanoma,approved
+SCH772984,Other,approved
+Trametinib,Melanoma,approved
+KU-55933,Solid tumour,investigative
+NU7441,Other,approved
+Olaparib,Ovarian cancer,approved
+Linsitinib,Solid tumour,phase 3
+BMS-754807,Other,approved
+Doramapimod,Other,approved
+Tozasertib,Solid tumour,phase 2
+ZM447439,Other,approved
+Paclitaxel,Breast cancer,approved
+Paclitaxel,Solid tumour,approved
+Paclitaxel,Pancreatic cancer,phase 3
+Paclitaxel,Gastric adenocarcinoma,phase 2
+Paclitaxel,Ovarian cancer,phase 2
+Vinorelbine,Solid tumour,approved
+Docetaxel,Solid tumour,approved
+Alisertib,Solid tumour,phase 3
+Alisertib,SCLC,phase 2
+5-Fluorouracil,Solid tumour,approved
+Sorafenib,Renal cell carcinoma,approved
+Sorafenib,Hepatocellular carcinoma,phase 3
+Sorafenib,Other,approved
+Ruxolitinib,Pancreatic cancer,phase 3
+Ruxolitinib,Other,approved
+Alpelisib,Breast cancer,approved
+Pictilisib,Breast cancer,approved
+Pictilisib,Non-hodgkin lymphoma,approved
+Pictilisib,Solid tumour,phase 2
+MK-2206,Rectal adenocarcinoma,phase 3
+AZD6482,Other,approved
+AZD8055,Solid tumour,discontinued
+Dactolisib,Other,approved
+Taselisib,Breast cancer,phase 3
+Taselisib,Solid tumour,phase 3
+Uprosertib,Colorectal cancer,phase 2
+Uprosertib,Lymphoma,phase 2
+PF-4708671,Other,approved
+OSI-027,Renal cell carcinoma,approved
+Luminespib,Multiple myeloma,phase 2
+Luminespib,Solid tumour,phase 2
+Bortezomib,Mantle cell lymphoma (MCL),approved
+Bortezomib,Multiple myeloma,approved
+AZD4547,Solid tumour,phase 3
+SB505124,Other,approved
+PD173074,Other,approved
+Axitinib,Renal cell carcinoma,approved
+Dasatinib,Chronic myelogenous leukaemia(CML),approved
+Dasatinib,Multiple myeloma,approved
+Crizotinib,NSCLC,approved
+Galunisertib,NSCLC,phase 3
+Galunisertib,pancreatic cancer,phase 1
+Galunisertib,Solid tumour,phase 2
+Galunisertib,Hepatocellular carcinoma,phase 2
+SB216763,Other,approved
+LGK974,Solid tumour,phase 1
+Nutlin-3a (-),Other,approved

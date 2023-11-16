@@ -1,0 +1,146 @@
+source	target	coeff	pathway
+Venetoclax	Navitoclax	1.0	Apoptosis regulation
+Erlotinib	Sapitinib	1.0	EGFR signaling
+Erlotinib	Afatinib	1.0	EGFR signaling
+Vorinostat	Entinostat	1.0	Chromatin histone acetylation
+Pictilisib	Alpelisib	1.0	PI3K/MTOR signaling
+Pictilisib	AZD6482	1.0	PI3K/MTOR signaling
+Pictilisib	Dactolisib	1.0	PI3K/MTOR signaling
+Pictilisib	Taselisib	1.0	PI3K/MTOR signaling
+Pictilisib	AZD8055	1.0	PI3K/MTOR signaling
+Pictilisib	OSI-027	1.0	PI3K/MTOR signaling
+Pictilisib	PF-4708671	1.0	PI3K/MTOR signaling
+Pictilisib	Uprosertib	1.0	PI3K/MTOR signaling
+Pictilisib	MK-2206	1.0	PI3K/MTOR signaling
+Alpelisib	AZD6482	1.0	PI3K/MTOR signaling
+Alpelisib	Dactolisib	1.0	PI3K/MTOR signaling
+Alpelisib	Taselisib	1.0	PI3K/MTOR signaling
+Alpelisib	AZD8055	1.0	PI3K/MTOR signaling
+Alpelisib	OSI-027	1.0	PI3K/MTOR signaling
+Alpelisib	PF-4708671	1.0	PI3K/MTOR signaling
+Alpelisib	Uprosertib	1.0	PI3K/MTOR signaling
+Alpelisib	MK-2206	1.0	PI3K/MTOR signaling
+Olaparib	KU-55933	1.0	Genome integrity
+Olaparib	NU7441	1.0	Genome integrity
+AZD4547	Crizotinib	1.0	RTK signaling
+AZD4547	BMS-754807	1.0	RTK signaling
+AZD4547	Dasatinib	1.0	RTK signaling
+AZD4547	PD173074	1.0	RTK signaling
+AZD4547	Lapatinib	1.0	RTK signaling
+AZD4547	SB505124	1.0	RTK signaling
+AZD4547	Axitinib	1.0	RTK signaling
+AZD4547	Sorafenib	1.0	RTK signaling
+AZD6482	Dactolisib	1.0	PI3K/MTOR signaling
+AZD6482	Taselisib	1.0	PI3K/MTOR signaling
+AZD6482	AZD8055	1.0	PI3K/MTOR signaling
+AZD6482	OSI-027	1.0	PI3K/MTOR signaling
+AZD6482	PF-4708671	1.0	PI3K/MTOR signaling
+AZD6482	Uprosertib	1.0	PI3K/MTOR signaling
+AZD6482	MK-2206	1.0	PI3K/MTOR signaling
+Sapitinib	Afatinib	1.0	EGFR signaling
+Dactolisib	Taselisib	1.0	PI3K/MTOR signaling
+Dactolisib	AZD8055	1.0	PI3K/MTOR signaling
+Dactolisib	OSI-027	1.0	PI3K/MTOR signaling
+Dactolisib	PF-4708671	1.0	PI3K/MTOR signaling
+Dactolisib	Uprosertib	1.0	PI3K/MTOR signaling
+Dactolisib	MK-2206	1.0	PI3K/MTOR signaling
+Wee1 Inhibitor	Palbociclib	1.0	Cell cycle
+Wee1 Inhibitor	RO-3306	1.0	Cell cycle
+Wee1 Inhibitor	AZD7762	1.0	Cell cycle
+Wee1 Inhibitor	MK-1775	1.0	Cell cycle
+Wee1 Inhibitor	BI-2536	1.0	Cell cycle
+Wee1 Inhibitor	Ribociclib	1.0	Cell cycle
+Dabrafenib	Trametinib	1.0	ERK MAPK signaling
+Dabrafenib	SCH772984	1.0	ERK MAPK signaling
+Taselisib	AZD8055	1.0	PI3K/MTOR signaling
+Taselisib	OSI-027	1.0	PI3K/MTOR signaling
+Taselisib	PF-4708671	1.0	PI3K/MTOR signaling
+Taselisib	Uprosertib	1.0	PI3K/MTOR signaling
+Taselisib	MK-2206	1.0	PI3K/MTOR signaling
+Bortezomib	Luminespib	1.0	Protein stability and degradation
+LGK974	SB216763	1.0	WNT signaling
+AZD8055	OSI-027	1.0	PI3K/MTOR signaling
+AZD8055	PF-4708671	1.0	PI3K/MTOR signaling
+AZD8055	Uprosertib	1.0	PI3K/MTOR signaling
+AZD8055	MK-2206	1.0	PI3K/MTOR signaling
+Crizotinib	BMS-754807	1.0	RTK signaling
+Crizotinib	Dasatinib	1.0	RTK signaling
+Crizotinib	PD173074	1.0	RTK signaling
+Crizotinib	Lapatinib	1.0	RTK signaling
+Crizotinib	SB505124	1.0	RTK signaling
+Crizotinib	Axitinib	1.0	RTK signaling
+Crizotinib	Sorafenib	1.0	RTK signaling
+BMS-754807	Dasatinib	1.0	RTK signaling
+BMS-754807	PD173074	1.0	RTK signaling
+BMS-754807	Lapatinib	1.0	RTK signaling
+BMS-754807	SB505124	1.0	RTK signaling
+BMS-754807	Axitinib	1.0	RTK signaling
+BMS-754807	Sorafenib	1.0	RTK signaling
+OSI-027	PF-4708671	1.0	PI3K/MTOR signaling
+OSI-027	Uprosertib	1.0	PI3K/MTOR signaling
+OSI-027	MK-2206	1.0	PI3K/MTOR signaling
+Dasatinib	PD173074	1.0	RTK signaling
+Dasatinib	Lapatinib	1.0	RTK signaling
+Dasatinib	SB505124	1.0	RTK signaling
+Dasatinib	Axitinib	1.0	RTK signaling
+Dasatinib	Sorafenib	1.0	RTK signaling
+PF-4708671	Uprosertib	1.0	PI3K/MTOR signaling
+PF-4708671	MK-2206	1.0	PI3K/MTOR signaling
+Palbociclib	RO-3306	1.0	Cell cycle
+Palbociclib	AZD7762	1.0	Cell cycle
+Palbociclib	MK-1775	1.0	Cell cycle
+Palbociclib	BI-2536	1.0	Cell cycle
+Palbociclib	Ribociclib	1.0	Cell cycle
+PD173074	Lapatinib	1.0	RTK signaling
+PD173074	SB505124	1.0	RTK signaling
+PD173074	Axitinib	1.0	RTK signaling
+PD173074	Sorafenib	1.0	RTK signaling
+Trametinib	SCH772984	1.0	ERK MAPK signaling
+KU-55933	NU7441	1.0	Genome integrity
+Camptothecin	Oxaliplatin	1.0	DNA replication
+Camptothecin	Temozolomide	1.0	DNA replication
+Camptothecin	Irinotecan	1.0	DNA replication
+Camptothecin	Gemcitabine	1.0	DNA replication
+Camptothecin	Cisplatin	1.0	DNA replication
+Uprosertib	MK-2206	1.0	PI3K/MTOR signaling
+Lapatinib	SB505124	1.0	RTK signaling
+Lapatinib	Axitinib	1.0	RTK signaling
+Lapatinib	Sorafenib	1.0	RTK signaling
+Oxaliplatin	Temozolomide	1.0	DNA replication
+Oxaliplatin	Irinotecan	1.0	DNA replication
+Oxaliplatin	Gemcitabine	1.0	DNA replication
+Oxaliplatin	Cisplatin	1.0	DNA replication
+Temozolomide	Irinotecan	1.0	DNA replication
+Temozolomide	Gemcitabine	1.0	DNA replication
+Temozolomide	Cisplatin	1.0	DNA replication
+SB505124	Axitinib	1.0	RTK signaling
+SB505124	Sorafenib	1.0	RTK signaling
+Vinorelbine	ZM447439	1.0	Mitosis
+Vinorelbine	Paclitaxel	1.0	Mitosis
+Vinorelbine	Tozasertib	1.0	Mitosis
+Vinorelbine	Alisertib	1.0	Mitosis
+Vinorelbine	Docetaxel	1.0	Mitosis
+RO-3306	AZD7762	1.0	Cell cycle
+RO-3306	MK-1775	1.0	Cell cycle
+RO-3306	BI-2536	1.0	Cell cycle
+RO-3306	Ribociclib	1.0	Cell cycle
+ZM447439	Paclitaxel	1.0	Mitosis
+ZM447439	Tozasertib	1.0	Mitosis
+ZM447439	Alisertib	1.0	Mitosis
+ZM447439	Docetaxel	1.0	Mitosis
+AZD7762	MK-1775	1.0	Cell cycle
+AZD7762	BI-2536	1.0	Cell cycle
+AZD7762	Ribociclib	1.0	Cell cycle
+Irinotecan	Gemcitabine	1.0	DNA replication
+Irinotecan	Cisplatin	1.0	DNA replication
+MK-1775	BI-2536	1.0	Cell cycle
+MK-1775	Ribociclib	1.0	Cell cycle
+Paclitaxel	Tozasertib	1.0	Mitosis
+Paclitaxel	Alisertib	1.0	Mitosis
+Paclitaxel	Docetaxel	1.0	Mitosis
+Gemcitabine	Cisplatin	1.0	DNA replication
+Tozasertib	Alisertib	1.0	Mitosis
+Tozasertib	Docetaxel	1.0	Mitosis
+BI-2536	Ribociclib	1.0	Cell cycle
+Axitinib	Sorafenib	1.0	RTK signaling
+Alisertib	Docetaxel	1.0	Mitosis

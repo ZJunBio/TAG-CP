@@ -1,0 +1,119 @@
+,drug_name,target_type,marker
+0,Nilotinib,ABL inhibitor,1
+1,Venetoclax,BCL-2 inhibitor,2
+2,Navitoclax,BCL2 inhibitor,3
+3,Navitoclax, BCL-XL inhibitor,3
+4,Navitoclax, BCL-W inhibitor,3
+5,RO-3306,CDK1 inhibitor,4
+6,Ribociclib,CDK4 inhibitor,5
+7,Ribociclib, CDK6 inhibitor,5
+8,Wee1 Inhibitor,WEE1 inhibitor,6
+9,Wee1 Inhibitor, CHEK1 inhibitor,6
+10,BI-2536,PLK1 inhibitor,7
+11,BI-2536, PLK2 inhibitor,7
+12,BI-2536, PLK3 inhibitor,7
+13,AZD7762,CHEK1 inhibitor,8
+14,AZD7762, CHEK2 inhibitor,8
+15,MK-1775,WEE1 inhibitor,9
+16,MK-1775, PLK1 inhibitor,9
+17,Palbociclib,CDK4 inhibitor,10
+18,Palbociclib, CDK6 inhibitor,10
+19,Vorinostat,HDAC1 inhibitor,11
+20,Entinostat,HDAC1 inhibitor,12
+21,Entinostat, HDAC3 inhibitor,12
+22,JQ1,BRD2 inhibitor,13
+23,JQ1, BRD3 inhibitor,13
+24,JQ1, BRD4 inhibitor,13
+25,JQ1, BRDT inhibitor,13
+26,GSK269962A,ROCK1 inhibitor,14
+27,GSK269962A, ROCK2 inhibitor,14
+28,Cisplatin,DNA crosslinker,15
+29,Temozolomide,DNA alkylating agent,16
+30,Oxaliplatin,DNA alkylating agent,17
+31,Gemcitabine,Pyrimidine antimetabolite,18
+32,Gemcitabine, RRM2 inhibitor,18
+33,Irinotecan,TOP1 inhibitor,19
+34,Camptothecin,TOP1 inhibitor,20
+35,Afatinib,EGFR inhibitor,21
+36,Afatinib, ERBB2 inhibitor,21
+37,Lapatinib,EGFR inhibitor,22
+38,Lapatinib, ERBB2 inhibitor,22
+39,Sapitinib,EGFR inhibitor,23
+40,Sapitinib, ERBB2 inhibitor,23
+41,Sapitinib,ERBB3 inhibitor,23
+42,Erlotinib,EGFR inhibitor,24
+43,Dabrafenib,BRAF inhibitor,25
+44,SCH772984,ERK1 inhibitor,26
+45,SCH772984, ERK2 inhibitor,26
+46,Trametinib,MEK1 inhibitor,27
+47,Trametinib, MEK2 inhibitor,27
+48,KU-55933,ATM inhibitor,28
+49,NU7441,DNAPK,29
+50,Olaparib,PARP inhibitor,30
+51,Linsitinib,IGF1R inhibitor,31
+52,BMS-754807,IGF1R inhibitor,32
+53,BMS-754807, IR inhibitor,32
+54,Doramapimod,p38 inhibitor,33
+55,Doramapimod, JNK2 inhibitor,33
+56,Tozasertib,AURKA inhibitor,34
+57,Tozasertib, AURKB inhibitor,34
+58,Tozasertib, AURKC inhibitor,34
+59,ZM447439,AURKA inhibitor,35
+60,ZM447439, AURKB inhibitor,35
+61,Paclitaxel,TTK and microtubules,36
+62,Vinorelbine,Microtubule destabiliser,37
+63,Docetaxel,Microtubule stabiliser,38
+64,Alisertib,AURKA inhibitor,39
+65,5-Fluorouracil,Antimetabolite (DNA & RNA),40
+66,Sorafenib,PDGFR inhibitor,41
+67,Sorafenib, KIT inhibitor,41
+68,Sorafenib, VEGFR inhibitor,41
+69,Sorafenib, RAF inhibitor,41
+70,Ruxolitinib,JAK1 inhibitor,42
+71,Ruxolitinib, JAK2 inhibitor,42
+72,Ruxolitinib, PLAUR inhibitor,42
+73,Alpelisib,PIK3CA inhibitor,43
+74,Pictilisib,PIK3CG inhibitor,44
+75,MK-2206,AKT1 inhibitor,45
+76,MK-2206, AKT2 inhibitor,45
+77,MK-2206, AKT3 inhibitor,45
+78,AZD6482,PIK3CB inhibitor,46
+79,AZD8055,MTORC1 inhibitor,47
+80,AZD8055, MTORC2 inhibitor,47
+81,Dactolisib,PI3K (class 1) inhibitor,48
+82,Dactolisib, MTORC1 inhibitor,48
+83,Dactolisib,MTORC2 inhibitor,48
+84,Taselisib,PIK3CA inhibitor,49
+85,Taselisib, PIK3CG inhibitor,49
+86,Uprosertib,AKT1 inhibitor,50
+87,Uprosertib, AKT2 inhibitor,50
+88,Uprosertib, AKT3 inhibitor,50
+89,PF-4708671,S6K1 inhibitor,51
+90,OSI-027,MTORC1 inhibitor,52
+91,OSI-027, MTORC2 inhibitor,52
+92,Luminespib,HSP90 inhibitor,53
+93,Bortezomib,Proteasome,54
+94,AZD4547,FGFR inhibitor,55
+95,AZD4547,FGFR1 inhibitor,55
+96,SB505124,TGFBR1 inhibitor,56
+97,SB505124, ACVR1B inhibitor,56
+98,SB505124, ACVR1C inhibitor,56
+99,PD173074,FGFR1 inhibitor,57
+100,PD173074, FGFR2 inhibitor,57
+101,PD173074, FGFR3 inhibitor,57
+102,Axitinib,PDGFR inhibitor,58
+103,Axitinib, KIT inhibitor,58
+104,Axitinib, VEGFR inhibitor,58
+105,Dasatinib,ABL inhibitor,59
+106,Dasatinib, SRC inhibitor,59
+107,Dasatinib, Ephrins inhibitor,59
+108,Dasatinib, PDGFR inhibitor,59
+109,Dasatinib, KIT inhibitor,59
+110,Crizotinib,MET inhibitor,60
+111,Crizotinib, ALK inhibitor,60
+112,Crizotinib, ROS1 inhibitor,60
+113,Galunisertib,TGFBR1,61
+114,SB216763,GSK3A inhibitor,62
+115,SB216763, GSK3B inhibitor,62
+116,LGK974,PORCN,63
+117,Nutlin-3a (-),MDM2 inhibitor,64

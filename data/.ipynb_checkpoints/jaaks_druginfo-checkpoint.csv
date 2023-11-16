@@ -1,0 +1,65 @@
+Unnamed: 0,drug_name,target_type,target_pathway,Disease,cid,canonicalsmiles
+0,Nilotinib,ABL inhibitor,ABL signaling,Chronic myelogenous leukemia (CML) ,644241,CC1=C(C=C(C=C1)C(=O)NC2=CC(=CC(=C2)C(F)(F)F)N3C=C(N=C3)C)NC4=NC=CC(=N4)C5=CN=CC=C5
+1,Venetoclax,BCL-2 inhibitor,Apoptosis regulation,Chronic lymphocytic leukemia (CLL),49846579,CC1(CCC(=C(C1)C2=CC=C(C=C2)Cl)CN3CCN(CC3)C4=CC(=C(C=C4)C(=O)NS(=O)(=O)C5=CC(=C(C=C5)NCC6CCOCC6)[N+](=O)[O-])OC7=CN=C8C(=C7)C=CN8)C
+2,Navitoclax,BCL2 inhibitor; BCL-XL inhibitor; BCL-W inhibitor,Apoptosis regulation,Other,24978538,CC1(CCC(=C(C1)CN2CCN(CC2)C3=CC=C(C=C3)C(=O)NS(=O)(=O)C4=CC(=C(C=C4)NC(CCN5CCOCC5)CSC6=CC=CC=C6)S(=O)(=O)C(F)(F)F)C7=CC=C(C=C7)Cl)C
+3,RO-3306,CDK1 inhibitor,Cell cycle,Other,135400873,C1=CC2=C(C=CC(=C2)C=C3C(=O)NC(=NCC4=CC=CS4)S3)N=C1
+4,Ribociclib,CDK4 inhibitor; CDK6 inhibitor,Cell cycle,Breast cancer(phase 3,44631912,CN(C)C(=O)C1=CC2=CN=C(N=C2N1C3CCCC3)NC4=NC=C(C=C4)N5CCNCC5
+5,Wee1 Inhibitor,WEE1 inhibitor; CHEK1 inhibitor,Cell cycle,Other,10384072,C1=CC=C(C(=C1)C2=CC3=C(C4=C(N3)C=CC(=C4)O)C5=C2C(=O)NC5=O)Cl
+6,BI-2536,PLK1 inhibitor; PLK2 inhibitor; PLK3 inhibitor,Cell cycle,Acute myeloid leukaemia(AML)(phase 2,11364421,CCC1C(=O)N(C2=CN=C(N=C2N1C3CCCC3)NC4=C(C=C(C=C4)C(=O)NC5CCN(CC5)C)OC)C
+7,AZD7762,CHEK1 inhibitor; CHEK2 inhibitor,Cell cycle,Solid tumour(phase 1,11152667,C1CC(CNC1)NC(=O)C2=C(C=C(S2)C3=CC(=CC=C3)F)NC(=O)N
+8,MK-1775,WEE1 inhibitor; PLK1 inhibitor,Cell cycle,Ovarian cancer(phase 2; Solid tumour(phase 1,24856436,CC(C)(C1=NC(=CC=C1)N2C3=NC(=NC=C3C(=O)N2CC=C)NC4=CC=C(C=C4)N5CCN(CC5)C)O
+9,Palbociclib,CDK4 inhibitor; CDK6 inhibitor,Cell cycle,Breast cancer ,5330286,CC1=C(C(=O)N(C2=NC(=NC=C12)NC3=NC=C(C=C3)N4CCNCC4)C5CCCC5)C(=O)C
+10,Vorinostat,HDAC1 inhibitor,Chromatin histone acetylation,Cutaneous T-cell lymphoma (CTCL),5311,C1=CC=C(C=C1)NC(=O)CCCCCCC(=O)NO
+11,Entinostat,HDAC1 inhibitor; HDAC3 inhibitor,Chromatin histone acetylation,Breast cancer(phase 3;Colorectal cancer(phase 2; Melanoma(phase 2; NSCLC(phase 2;Ovarian cancer(phase 2,4261,C1=CC=C(C(=C1)N)NC(=O)C2=CC=C(C=C2)CNC(=O)OCC3=CN=CC=C3
+12,JQ1,BRD2 inhibitor; BRD3 inhibitor; BRD4 inhibitor; BRDT inhibitor,Chromatin other,Testicular cancer(phase 1,46907787,CC1=C(SC2=C1C(=NC(C3=NN=C(N32)C)CC(=O)OC(C)(C)C)C4=CC=C(C=C4)Cl)C
+13,GSK269962A,ROCK1 inhibitor; ROCK2 inhibitor,Cytoskeleton,Inflammation,16095342,CCN1C2=CC(=NC=C2N=C1C3=NON=C3N)OC4=CC=CC(=C4)NC(=O)C5=CC=C(C=C5)OCCN6CCOCC6
+14,Cisplatin,DNA crosslinker,DNA replication,Solid tumour; Osteosarcoma(phase 2,5702198,N.N.Cl[Pt]Cl
+15,Temozolomide,DNA alkylating agent,DNA replication,Grade IV astrocytoma,5394,CN1C(=O)N2C=NC(=C2N=N1)C(=O)N
+16,Oxaliplatin,DNA alkylating agent,DNA replication,Colorectal cancer,9887053,C1CCC(C(C1)[NH-])[NH-].C(=O)(C(=O)O)O.[Pt+2]
+17,Gemcitabine,Pyrimidine antimetabolite; RRM2 inhibitor,DNA replication,Solid tumour,60750,C1=CN(C(=O)N=C1N)C2C(C(C(O2)CO)O)(F)F
+18,Irinotecan,TOP1 inhibitor,DNA replication,Colorectal cancer,60838,CCC1=C2CN3C(=CC4=C(C3=O)COC(=O)C4(CC)O)C2=NC5=C1C=C(C=C5)OC(=O)N6CCC(CC6)N7CCCCC7
+19,Camptothecin,TOP1 inhibitor,DNA replication,Solid tumour(phase 3,24360,CCC1(C2=C(COC1=O)C(=O)N3CC4=CC5=CC=CC=C5N=C4C3=C2)O
+20,Afatinib,EGFR inhibitor; ERBB2 inhibitor,EGFR signaling,NSCLC,10184653,CN(C)CC=CC(=O)NC1=C(C=C2C(=C1)C(=NC=N2)NC3=CC(=C(C=C3)F)Cl)OC4CCOC4
+21,Lapatinib,EGFR inhibitor; ERBB2 inhibitor,EGFR signaling,Breast cancer,208908,CS(=O)(=O)CCNCC1=CC=C(O1)C2=CC3=C(C=C2)N=CN=C3NC4=CC(=C(C=C4)OCC5=CC(=CC=C5)F)Cl
+22,Sapitinib,EGFR inhibitor; ERBB2 inhibitor;ERBB3 inhibitor,EGFR signaling,Breast cancer(phase 2,11488320,CNC(=O)CN1CCC(CC1)OC2=C(C=C3C(=C2)C(=NC=N3)NC4=C(C(=CC=C4)Cl)F)OC
+23,Erlotinib,EGFR inhibitor,EGFR signaling,NSCLC;Pancreatic cancer ,176870,COCCOC1=C(C=C2C(=C1)C(=NC=N2)NC3=CC=CC(=C3)C#C)OCCOC
+24,Dabrafenib,BRAF inhibitor,ERK MAPK signaling,Melanoma,44462760,CC(C)(C)C1=NC(=C(S1)C2=NC(=NC=C2)N)C3=C(C(=CC=C3)NS(=O)(=O)C4=C(C=CC=C4F)F)F
+25,SCH772984,ERK1 inhibitor; ERK2 inhibitor,ERK MAPK signaling,Other,24866313,C1CN(CC1C(=O)NC2=CC3=C(C=C2)NN=C3C4=CC=NC=C4)CC(=O)N5CCN(CC5)C6=CC=C(C=C6)C7=NC=CC=N7
+26,Trametinib,MEK1 inhibitor; MEK2 inhibitor,ERK MAPK signaling,Melanoma,11707110,CC1=C2C(=C(N(C1=O)C)NC3=C(C=C(C=C3)I)F)C(=O)N(C(=O)N2C4=CC=CC(=C4)NC(=O)C)C5CC5
+27,KU-55933,ATM inhibitor,Genome integrity,Solid tumour(investigative,5278396,C1COCCN1C2=CC(=O)C=C(O2)C3=C4C(=CC=C3)SC5=CC=CC=C5S4
+28,NU7441,DNAPK,Genome integrity,Other,11327430,C1COCCN1C2=CC(=O)C3=C(O2)C(=CC=C3)C4=CC=CC5=C4SC6=CC=CC=C56
+29,Olaparib,PARP inhibitor,Genome integrity,Ovarian cancer ,23725625,C1CC1C(=O)N2CCN(CC2)C(=O)C3=C(C=CC(=C3)CC4=NNC(=O)C5=CC=CC=C54)F
+30,Linsitinib,IGF1R inhibitor,IGF1R signaling,Solid tumour(phase 3,11640390,CC1(CC(C1)C2=NC(=C3N2C=CN=C3N)C4=CC5=C(C=C4)C=CC(=N5)C6=CC=CC=C6)O
+31,BMS-754807,IGF1R inhibitor; IR inhibitor,IGF1R signaling,Other,24785538,CC1(CCCN1C2=NN3C=CC=C3C(=N2)NC4=NNC(=C4)C5CC5)C(=O)NC6=CN=C(C=C6)F
+32,Doramapimod,p38 inhibitor; JNK2 inhibitor,JNK and p38 signaling,Other,156422,CC1=CC=C(C=C1)N2C(=CC(=N2)C(C)(C)C)NC(=O)NC3=CC=C(C4=CC=CC=C43)OCCN5CCOCC5
+33,Tozasertib,AURKA inhibitor; AURKB inhibitor; AURKC inhibitor,Mitosis,Solid tumour(phase 2,5494449,CC1=CC(=NN1)NC2=CC(=NC(=N2)SC3=CC=C(C=C3)NC(=O)C4CC4)N5CCN(CC5)C
+34,ZM447439,AURKA inhibitor; AURKB inhibitor,Mitosis,Other,9914412,COC1=C(C=C2C(=C1)C(=NC=N2)NC3=CC=C(C=C3)NC(=O)C4=CC=CC=C4)OCCCN5CCOCC5
+35,Paclitaxel,TTK and microtubules,Mitosis,Breast cancer;Solid tumour;Pancreatic cancer(phase 3;Gastric adenocarcinoma(phase 2; Ovarian cancer(phase 2,36314,CC1=C2C(C(=O)C3(C(CC4C(C3C(C(C2(C)C)(CC1OC(=O)C(C(C5=CC=CC=C5)NC(=O)C6=CC=CC=C6)O)O)OC(=O)C7=CC=CC=C7)(CO4)OC(=O)C)O)C)OC(=O)C
+36,Vinorelbine,Microtubule destabiliser,Mitosis,Solid tumour,5311497,CCC1=CC2CC(C3=C(CN(C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)C78CCN9C7C(C=CC9)(C(C(C8N6C)(C(=O)OC)O)OC(=O)C)CC)OC)C(=O)OC
+37,Docetaxel,Microtubule stabiliser,Mitosis,Solid tumour,148124,CC1=C2C(C(=O)C3(C(CC4C(C3C(C(C2(C)C)(CC1OC(=O)C(C(C5=CC=CC=C5)NC(=O)OC(C)(C)C)O)O)OC(=O)C6=CC=CC=C6)(CO4)OC(=O)C)O)C)O
+38,Alisertib,AURKA inhibitor,Mitosis,Solid tumour(phase 3; SCLC(phase 2,24771867,COC1=C(C(=CC=C1)F)C2=NCC3=CN=C(N=C3C4=C2C=C(C=C4)Cl)NC5=CC(=C(C=C5)C(=O)O)OC
+39,5-Fluorouracil,Antimetabolite (DNA & RNA),Other,Solid tumour,3385,C1=C(C(=O)NC(=O)N1)F
+40,Sorafenib,PDGFR inhibitor; KIT inhibitor; VEGFR inhibitor; RAF inhibitor,Other_kinases,Renal cell carcinoma; Hepatocellular carcinoma(phase 3; Other,216239,CNC(=O)C1=NC=CC(=C1)OC2=CC=C(C=C2)NC(=O)NC3=CC(=C(C=C3)Cl)C(F)(F)F
+41,Ruxolitinib,JAK1 inhibitor; JAK2 inhibitor; PLAUR inhibitor,Other_kinases,Pancreatic cancer(phase 3; Other,25126798,C1CCC(C1)C(CC#N)N2C=C(C=N2)C3=C4C=CNC4=NC=N3
+42,Alpelisib,PIK3CA inhibitor,PI3K/MTOR signaling,Breast cancer ,56649450,CC1=C(SC(=N1)NC(=O)N2CCCC2C(=O)N)C3=CC(=NC=C3)C(C)(C)C(F)(F)F
+43,Pictilisib,PIK3CG inhibitor,PI3K/MTOR signaling,Breast cancer;Non-hodgkin lymphoma;Solid tumour(phase 2,17755052,CS(=O)(=O)N1CCN(CC1)CC2=CC3=C(S2)C(=NC(=N3)C4=C5C=NNC5=CC=C4)N6CCOCC6
+44,MK-2206,AKT1 inhibitor; AKT2 inhibitor; AKT3 inhibitor,PI3K/MTOR signaling,Rectal adenocarcinoma(phase 3,24964624,C1CC(C1)(C2=CC=C(C=C2)C3=C(C=C4C(=N3)C=CN5C4=NNC5=O)C6=CC=CC=C6)N
+45,AZD6482,PIK3CB inhibitor,PI3K/MTOR signaling,Other,44137675,CC1=CN2C(=O)C=C(N=C2C(=C1)C(C)NC3=CC=CC=C3C(=O)O)N4CCOCC4
+46,AZD8055,MTORC1 inhibitor; MTORC2 inhibitor,PI3K/MTOR signaling,Solid tumour(discontinued,25262965,CC1COCCN1C2=NC(=NC3=C2C=CC(=N3)C4=CC(=C(C=C4)OC)CO)N5CCOCC5C
+47,Dactolisib,PI3K (class 1) inhibitor; MTORC1 inhibitor;MTORC2 inhibitor,PI3K/MTOR signaling,Other,11977753,CC(C)(C#N)C1=CC=C(C=C1)N2C3=C4C=C(C=CC4=NC=C3N(C2=O)C)C5=CC6=CC=CC=C6N=C5
+48,Taselisib,PIK3CA inhibitor; PIK3CG inhibitor,PI3K/MTOR signaling,Breast cancer(phase 3; Solid tumour(phase 3,51001932,CC1=NN(C(=N1)C2=CN3CCOC4=C(C3=N2)C=CC(=C4)C5=CN(N=C5)C(C)(C)C(=O)N)C(C)C
+49,Uprosertib,AKT1 inhibitor; AKT2 inhibitor; AKT3 inhibitor,PI3K/MTOR signaling,Colorectal cancer(phase 2; Lymphoma(phase 2,51042438,CN1C(=C(C=N1)Cl)C2=C(OC(=C2)C(=O)NC(CC3=CC(=C(C=C3)F)F)CN)Cl
+50,PF-4708671,S6K1 inhibitor,PI3K/MTOR signaling,Other,51371303,CCC1=CN=CN=C1N2CCN(CC2)CC3=NC4=C(N3)C=C(C=C4)C(F)(F)F
+51,OSI-027,MTORC1 inhibitor; MTORC2 inhibitor,PI3K/MTOR signaling,Renal cell carcinoma,135398516,COC1=CC=CC2=C1NC(=C2)C3=C4C(=NC=NN4C(=N3)C5CCC(CC5)C(=O)O)N
+52,Luminespib,HSP90 inhibitor,Protein stability and degradation,Multiple myeloma(phase 2; Solid tumour(phase 2,135539077,CCNC(=O)C1=NOC(=C1C2=CC=C(C=C2)CN3CCOCC3)C4=CC(=C(C=C4O)O)C(C)C
+53,Bortezomib,Proteasome,Protein stability and degradation,Mantle cell lymphoma (MCL);Multiple myeloma,387447,B(C(CC(C)C)NC(=O)C(CC1=CC=CC=C1)NC(=O)C2=NC=CN=C2)(O)O
+54,AZD4547,FGFR inhibitor;FGFR1 inhibitor,RTK signaling,Solid tumour(phase 3,51039095,CC1CN(CC(N1)C)C2=CC=C(C=C2)C(=O)NC3=NNC(=C3)CCC4=CC(=CC(=C4)OC)OC
+55,SB505124,TGFBR1 inhibitor; ACVR1B inhibitor; ACVR1C inhibitor,RTK signaling,Other,9858940,CC1=NC(=CC=C1)C2=C(N=C(N2)C(C)(C)C)C3=CC4=C(C=C3)OCO4
+56,PD173074,FGFR1 inhibitor; FGFR2 inhibitor; FGFR3 inhibitor,RTK signaling,Other,1401,CCN(CC)CCCCNC1=NC2=NC(=C(C=C2C=N1)C3=CC(=CC(=C3)OC)OC)NC(=O)NC(C)(C)C
+57,Axitinib,PDGFR inhibitor; KIT inhibitor; VEGFR inhibitor,RTK signaling,Renal cell carcinoma,6450551,CNC(=O)C1=CC=CC=C1SC2=CC3=C(C=C2)C(=NN3)C=CC4=CC=CC=N4
+58,Dasatinib,ABL inhibitor; SRC inhibitor; Ephrins inhibitor; PDGFR inhibitor; KIT inhibitor,RTK signaling,Chronic myelogenous leukaemia(CML); Multiple myeloma,3062316,CC1=C(C(=CC=C1)Cl)NC(=O)C2=CN=C(S2)NC3=CC(=NC(=N3)C)N4CCN(CC4)CCO
+59,Crizotinib,MET inhibitor; ALK inhibitor; ROS1 inhibitor,RTK signaling;HGF/Met signaling pathway,NSCLC,11626560,CC(C1=C(C=CC(=C1Cl)F)Cl)OC2=C(N=CC(=C2)C3=CN(N=C3)C4CCNCC4)N
+60,Galunisertib,TGFBR1,TGF-beta signaling pathway,NSCLC(phase 3;pancreatic cancer(phase 1;Solid tumour(phase 2;Hepatocellular carcinoma(phase 2,10090485,CC1=NC(=CC=C1)C2=NN3CCCC3=C2C4=C5C=C(C=CC5=NC=C4)C(=O)N
+61,SB216763,GSK3A inhibitor; GSK3B inhibitor,WNT signaling,Other,176158,CN1C=C(C2=CC=CC=C21)C3=C(C(=O)NC3=O)C4=C(C=C(C=C4)Cl)Cl
+62,LGK974,PORCN,WNT signaling,Solid tumour(phase 1,46926973,CC1=CC(=CN=C1C2=CC(=NC=C2)C)CC(=O)NC3=NC=C(C=C3)C4=NC=CN=C4
+63,Nutlin-3a (-),MDM2 inhibitor,p53 pathway,Other,11433190,CC(C)OC1=C(C=CC(=C1)OC)C2=NC(C(N2C(=O)N3CCNC(=O)C3)C4=CC=C(C=C4)Cl)C5=CC=C(C=C5)Cl

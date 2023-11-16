@@ -1,0 +1,22 @@
+source,target,coeff,pathway,similarity
+Venetoclax,Navitoclax,1.0,Apoptosis regulation,0.9952896158455191
+138559296,Venetoclax,2.0,Apoptosis regulation,0.9050429949535905
+49846308,Venetoclax,2.0,Apoptosis regulation,0.9962317697602687
+86270182,Venetoclax,2.0,Apoptosis regulation,0.9960900817811524
+134256984,Venetoclax,2.0,Apoptosis regulation,0.9803920398755401
+67127028,Venetoclax,2.0,Apoptosis regulation,0.9880182636128138
+49847103,Venetoclax,2.0,Apoptosis regulation,0.9997556858924861
+165172279,Venetoclax,2.0,Apoptosis regulation,0.9988250469139532
+166540481,Venetoclax,2.0,Apoptosis regulation,0.9990951908713792
+87279545,Venetoclax,2.0,Apoptosis regulation,0.9971024879396493
+86269992,Venetoclax,2.0,Apoptosis regulation,0.998963071945353
+137514579,Navitoclax,2.0,Apoptosis regulation,0.9999930604017357
+87325732,Navitoclax,2.0,Apoptosis regulation,0.999923721694306
+87325258,Navitoclax,2.0,Apoptosis regulation,0.9941708512145142
+24752861,Navitoclax,2.0,Apoptosis regulation,0.9999139562180654
+118494734,Navitoclax,2.0,Apoptosis regulation,0.9998550235198411
+166998169,Navitoclax,2.0,Apoptosis regulation,0.7777276457019009
+130244213,Navitoclax,2.0,Apoptosis regulation,0.9999354068185995
+155047648,Navitoclax,2.0,Apoptosis regulation,0.9997516621289813
+87325070,Navitoclax,2.0,Apoptosis regulation,0.9993388455747405
+58018336,Navitoclax,2.0,Apoptosis regulation,0.9999506325757787
