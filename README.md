@@ -6,8 +6,10 @@
 
 TAG-CP offers a novel computational model for synergistic drug combination through integrating drug-target relationship to represent small molecules with the framework of attentive graph neural network.
 
-- To begin with, please get the codes with  ```git clone https://github.com/ZJunBio/TAG-CP.git``` or download the  **.zip** file with magnet https://github.com/ZJunBio/TAG-CP/archive/refs/heads/master.zip, and run the following scripts or commands in the **tag-cp** directory. 
-- The NN directory saves the code used to build the Graph Attention Network (GAT) model and drug combination predicting model. The data_preprocess folder saves the codes for handling training or testing data.
+- To begin with, please get the codes with  ```git clone https://github.com/ZJunBio/TAG-CP.git``` or download the  **.zip** file with magnet https://github.com/ZJunBio/TAG-CP/archive/refs/heads/master.zip, and run the following scripts or commands in the **tag-cp** directory;
+- The NN directory saves the code used to build the deep learning model; 
+- The data_preprocess folder saves the codes for handling training or testing data;
+- The test folder saves the test combinations and python code for predicting drug combinations.
 
 ### Environment Requirement
 
