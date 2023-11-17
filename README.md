@@ -1,13 +1,13 @@
 # TAG-CP
 
-This  framework named **T**arget based **A**ttentive **G**raph neural network & **C**ombination **P**rediction (TAG-CP).
+**T**arget based **A**ttentive **G**raph neural network & **C**ombination **P**rediction (TAG-CP).
 
 ### Introduction
 
-Our work offers a novel molecular representing method which integrates drug-target relationship and introduces a new method featuring drug combination. There are two main steps to predict the interaction type of drug-drug-cancer cell line combinations (DDCs).
+TAG-CP offers a novel computational model for synergistic drug combination through integrating drug-target relationship to represent small molecules with the framework of attentive graph neural network.
 
-1. Obtaining the low-dimensional graph embedding of each compound;
-2. Calculating the feature of drug combinations and cell lines as the input for predicting.
+- To begin with, please get the codes with  ```git clone https://github.com/ZJunBio/TAG-CP.git``` or download the  **.zip** file with magnet https://github.com/ZJunBio/TAG-CP/archive/refs/heads/master.zip, and run the following scripts or commands in the **tag-cp** directory. 
+- The NN directory saves the code used to build the Graph Attention Network (GAT) model and drug combination predicting model. The data_preprocess folder saves the codes for handling training or testing data.
 
 ### Environment Requirement
 
@@ -25,20 +25,18 @@ Our work offers a novel molecular representing method which integrates drug-targ
 
   - scikit-learn == 1.3.0
 
-- You can prepare the environment with conda, please try again if you failed creating the environment : 
+- You can prepare the environment with conda, please try again if you failed to create the environment : 
 
   ``` shell 
-  conda env create -n tag_cp -f requirement.yml
-  conda activate tag_cp
+  $ conda env create -n tag_cp -f requirement.yml
+  $ conda activate tag_cp
   ```
 
   - If you have not installed **conda**，please refer to [Installing Miniconda](https://docs.conda.io/projects/miniconda/en/latest/miniconda-install.html)
 
 ###  Obtaining the graph embedding of drugs 
 
-For now, this grpah attention network (GAT) is a transductive  learning model and allowed embedding learning for 1362 drugs or compounds. We offer a  dictionary-structured file serialized with python pickle module  and you can directly use , or you can run the GAT model to generate the low-dimensional graph embedding. 
-
-In the future work, we will developed the model frame of inductive learning for representation learning of more compounds.
+For now, this graph attention network (GAT) is a transductive  learning model and allowed embedding learning for 1362 drugs or compounds. We offer a  dictionary-structured file serialized with python pickle module  and you can directly use them for further study , or you can run the GAT model to generate the low-dimensional graph embedding. 
 
 - With offered file, you can directly use the representation of compounds:
 
@@ -51,7 +49,7 @@ In the future work, we will developed the model frame of inductive learning for 
   > #cid_repre[5311104] = array([0, 0, 0, 0.0024659 , 0...]
   ```
 
-- Enter the jupyter lab at terminal under conda environment, running the GAT model within jupyter notebook, and the list of drugs are saved in drug_list.txt
+- Enter the ```jupyter-lab``` at terminal under conda environment, and run the GAT model within the notebook named **GAT_model.ipynb** located in **NN** directory, and the PubChem CIDs of drugs are saved in drug_list.txt
 
   ```shell
   $ jupyter-lab
@@ -67,7 +65,7 @@ In the future work, we will developed the model frame of inductive learning for 
    PubChem CID 3,PubChem CID 4,Cell's name in Cell Model Passports database
    ```
 
-2. You can generate the synergy probability of prepared drug combinations with follow commands. 
+2. You can generate the synergy probability of prepared drug combinations with follow commands, the ```predict_pytorch.py```  and results are saved under **test** directory. 
 
     ```shell
     $ python data_preprocess/preprocess.py

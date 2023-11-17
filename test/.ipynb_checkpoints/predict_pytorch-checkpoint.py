@@ -67,7 +67,7 @@ def output(test_path, pre, output_path):
     test.to_csv(output_path)
    
     
-
+#The main predicting program.
 def predict(test_path = test_path, model_path = model_path, cell_train = cell_train):
     test = pd.read_csv(test_path)
     combs, cells = df_split(test)
@@ -75,7 +75,7 @@ def predict(test_path = test_path, model_path = model_path, cell_train = cell_tr
     #read training cells.
     #cell_k = read_cells()
     
-    #calculate similarities.
+    #calculate the feature of cell lines and drug combinations.
     print("Calculating the feature of cell lines......")
     cell_feature = cal_cell_similarity(cells, cell_train)
     print("Done!")
@@ -83,7 +83,7 @@ def predict(test_path = test_path, model_path = model_path, cell_train = cell_tr
     comb_feature = comb_sim(combs)
     print("Done!")
     
-    #concatenate feature.
+    #concatenate feature of DDCs.
     input_ = concat_vec(test, comb_feature, cell_feature)
     input_ = preprocessing.normalize(input_)
     #convert numpy.ndarray to torch tensor.
@@ -101,5 +101,5 @@ def predict(test_path = test_path, model_path = model_path, cell_train = cell_tr
 result = predict()
 #save result
 result = result.detach().numpy()
-
+#put the results into the user specified csv file.
 output(test_path, result, output_path)
